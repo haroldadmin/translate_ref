@@ -1,6 +1,6 @@
 name: translate_ref
 description: Annotations library for translate_ref_generator
-version: 0.0.1
+version: 0.0.2
 
 environment:
   sdk: '>=2.10.0 <3.0.0'
