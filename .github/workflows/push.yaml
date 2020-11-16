@@ -27,6 +27,3 @@ jobs:
 
       - name: Analyze project source
         run: dart analyze
-
-      - name: Run tests
-        run: dart test
